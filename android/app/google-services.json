@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141394785577",
+    "project_id": "jetu-2dc7b",
+    "storage_bucket": "jetu-2dc7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141394785577:android:e475d1bbef229303c5b338",
+        "android_client_info": {
+          "package_name": "kz.jetutaxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp2Q6cbzn5lGpHyYPkHg2yRmYzsyeNkMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
